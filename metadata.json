@@ -1,0 +1,8 @@
+{
+  "name": "XAUUSD Pro Recap",
+  "description": "Aplikasi rekap trading khusus XAUUSD (Gold) harian, mingguan, dan bulanan dalam Rupiah lengkap dengan grafik interaktif, jurnal log, ekspor PDF, import/export data, dan peringatan otomatis batas loss bulanan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
